@@ -7,15 +7,12 @@
 </p>
 
 
-
-## 🐍 Contribution Snake
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/baljir0901/baljir0901/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </p>
 
 ---
 
-## Fun Fact
+
 
 > I smoke 🚬
