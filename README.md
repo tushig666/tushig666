@@ -65,9 +65,10 @@ Focus:
 
 <div align="center">
 
-```txt
-> BUILDING WHAT TOMORROW LOOKS LIKE_
-```
+<div align="center">
+<h2>BUILDING WHAT TOMORROW LOOKS LIKE</h2>
+</div>
+
 <h3 align="center">
 
 <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YWI2YWJ2YWJwOXc0ZTkxeWhlc21kbTJyeGVoZ3JsdG4ycW8zY3R4eSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/WRoLGgwE4xTQYTxyJg/giphy.gif"  align="center">
